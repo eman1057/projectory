@@ -1,0 +1,100 @@
+shawaiz ali,21
+irtaza shahzad,14
+babar azam,12
+Soban Qamar,8
+leo messi,8
+kobe bryant,6
+simran,6
+imran khan,5
+cristiano ronaldo,4
+nawaz shareef,3
+bhutto,3
+soban qamar,1
+shawaiz,1
+eg,1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
+NULL,-1
