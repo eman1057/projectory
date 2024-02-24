@@ -1,0 +1,21 @@
+Project name:
+ 2048 game
+
+Group members:
+Eesha Waqar 22L-6780 (1H)
+Unzela Noor 22L-6725 (1H)
+Iman Qamar 22L-6854 (1C)
+Hania Salman 22L-6584 (1C)
+
+About this project:
+2048 is an addictive mathematical game played in a 4×4 grid. In this game, the user uses arrow keys to move each tile and match them if they have a same number. These 2 tiles merge to become a single tile adding the number mentioned in it. 
+For example tile of 2 matches with tile of 2 to become 1 tile of 4. 
+With each move, a new number either 2 or 4 generates in an empty tile. The user keep playing unless he gets the '2048' tile or else when all tiles fill up with numbers. 
+
+Technique:
+To design this game, we are required:
+1.functions for move in every direction, creating a new tile at every move, to merge tiles, and to check win or gameover. 
+2. Loops
+For loop, to fill and check tiles of 4×4 grid.
+Nested if and if else to merge same numbers.
+3. a global variable to keep track of score throughout.
